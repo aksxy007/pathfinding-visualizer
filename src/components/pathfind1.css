@@ -1,0 +1,33 @@
+.wrapper {
+  max-width: 95%;
+  margin: auto;
+}
+.row {
+  display: flex;
+}
+.heading {
+  text-align: center;
+  justify-content: center;
+  height: 10vh;
+  font-family: "Lexend-Deca";
+  background-color: #104f55;
+}
+.butdiv {
+  display: flex;
+  margin: 10px auto;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #a033ff;
+}
+.buttons {
+  margin: 10px;
+  padding: 2px;
+
+  width: 150px;
+  height: 50px;
+  font-family: "abel";
+  background: transparent;
+  color: white;
+  font-size: 16px;
+}
